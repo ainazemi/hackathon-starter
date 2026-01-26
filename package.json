@@ -51,7 +51,7 @@
     "express-session": "^1.17.3",
     "jquery": "^3.7.1",
     "lastfm": "^0.9.4",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "lusca": "^1.7.0",
     "mailchecker": "^5.0.9",
     "moment": "^2.29.4",
